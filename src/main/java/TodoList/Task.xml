@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ToDoList>
+    <Task caption="Изменение статус" id="1">
+        <Description>Изменять статус по команде в конслоле</Description>
+        <Priority>100</Priority>
+        <Deadline>2020-10-19</Deadline>
+        <Status>New</Status>
+        <Complete>2020-10-19</Complete>
+    </Task>
+    <Task caption="sdfsdfsd" id="2">
+        <Description>fsdfsds</Description>
+        <Priority>1</Priority>
+        <Deadline>2020-10-19</Deadline>
+        <Status>In_process</Status>
+        <Complete>2020-10-21</Complete>
+    </Task>
+    <Task caption="В процессе" id="3">
+        <Description>Через команду поменять статус на в процессе</Description>
+        <Priority>100</Priority>
+        <Deadline>2020-10-19</Deadline>
+        <Status>Done</Status>
+        <Complete>2020-10-19</Complete>
+    </Task>
+</ToDoList>
